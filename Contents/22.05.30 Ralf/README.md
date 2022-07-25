@@ -50,7 +50,7 @@ Lexical analyze 되어있는 데이터를 노드 구조로 배열한다. 대부�
 
 추상 구문 트리(Abstract syntax tree) 각 노드들(토큰이 변환된것)이 가지는 자료구조를 의미
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a4f33826-ba0a-461b-a1b2-4b8a7d5e8d24/Untitled.png)
+![tree](https://user-images.githubusercontent.com/55739359/180700140-456a4d1c-2559-44b0-b5ae-dd01c4d14212.png)
 
 ### Evaluator
 
